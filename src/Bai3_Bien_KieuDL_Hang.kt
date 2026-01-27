@@ -4,10 +4,10 @@ fun main(args: Array<String>) {
     *Kiểu dữ liệu ( Tương tự Java)
     - Nguyên    : Int, Long, Short
     - Thực      : Double, Float
-    - Luận lý   :
-    - Mảng      :
-    - Chuỗi     :
-    - Kí tự     :
+    - Luận lý   : Boolean
+    - Mảng      : IntArray,LongArray....
+    - Chuỗi     : String
+    - Kí tự     : Char
     *Biến
     - Khai báo var: có thể thay đổi giá trị
     - Khai báo val: Hằng số
