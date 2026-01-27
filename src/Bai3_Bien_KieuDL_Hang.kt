@@ -58,4 +58,5 @@ fun main(args: Array<String>) {
     //Hằng số
     val nhietDoSoi:Int=100;
     var nhietDoNongChay=999;
+    //Ép kieu trong Kotlin
 }
