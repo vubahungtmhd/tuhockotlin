@@ -22,8 +22,11 @@ fun main(args: Array<String>) {
                  var soA=999L;
     - Kiểu mảng
     + Khai báo: var tên_mảng: typeArray =typeArrayOf( giá trị 1,2,3,...);
+    - Ép kiểu:
+    + Kiểu rộng bé-> lớn
+    + Kiểu hẹp lớn -> bé có thể mất dữ liệu
 
-    * */
+    */
     //Khởi tạo biến
     var a:Int =65;
     var b:Short=5;
@@ -59,4 +62,5 @@ fun main(args: Array<String>) {
     val nhietDoSoi:Int=100;
     var nhietDoNongChay=999;
     //Ép kieu trong Kotlin
+
 }
